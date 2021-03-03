@@ -63,3 +63,10 @@ where ```/content/drive/MyDrive``` is the standard file path.
 ## Authors
 
 [Silvia Ji](https://www.linkedin.com/in/silviaji/) - [GitHub](github.com/jisilvia)
+
+## License
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
+
+## Acknowledgements
+
+The project template and dataset were provided by [Arin Brahma](https://github.com/ArinB) at Loyola Marymount University.
