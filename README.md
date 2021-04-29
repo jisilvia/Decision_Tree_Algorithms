@@ -1,6 +1,6 @@
 # Decision Tree Algorithms
 <p align="center">
-  <img width="460" height="300" src="https://www.explorium.ai/wp-content/uploads/2019/12/Decision-Trees-2.png">
+  <src="https://www.explorium.ai/wp-content/uploads/2019/12/Decision-Trees-2.png">
 </p>
 
 A decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility. It is one way to display an algorithm that only contains conditional control statements.
